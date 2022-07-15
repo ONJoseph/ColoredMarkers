@@ -2,7 +2,7 @@
 
 ![screenshot](./colormaker.png)
 
-This project is a to-do list app built using ES6 and Webpack as part of Microverse projects.
+This project is a set of colored markers built to practice css color skills.
 
 ## Built With
 
