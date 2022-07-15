@@ -1,6 +1,6 @@
 > ColoredMarkers
 
-![screenshot](.colormaker.png)
+![screenshot](./colormaker.png)
 
 This project is a to-do list app built using ES6 and Webpack as part of Microverse projects.
 
